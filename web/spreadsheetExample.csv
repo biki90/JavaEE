@@ -1,0 +1,6 @@
+Pool ID,User Name,Email Address,First Name,Last Name,Entry ID,Date Entered, Rank, Points,Tie Breaker 1, Tie Breaker 2,What is your team name?,What is your team number?
+4,someUsername,someone@example.com,joe,someLastName,50,01/04/16,4,20,55,30,Taco Bell,1
+4,user2,someone@example.com,steve,someLastName,51,01/04/16,1,100,38,23,Bank of NC,2
+4,elkas23,someone@example.com,caroline,someLastName,58,01/04/16,2,94,47,43,Taco Bell,1
+4,aman4,someone@example.com,amanda,someLastName,59,01/04/16,5,13,93,25,Bank of NC,2
+4,dave82,someone@example.com,dave,42,01/04/16,3,80,20,83,Taco Bell,1
